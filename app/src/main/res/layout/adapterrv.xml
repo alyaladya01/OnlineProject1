@@ -29,16 +29,18 @@
             <TextView
                 android:textColor="#03A9F4"
                 android:textStyle="italic"
-                android:text="name placeholder"
+                android:text="Nisrina Alyaladya"
                 android:id="@+id/tvname"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
             <TextView
-                android:text="desc placeholder"
+                android:text="01 Desember 2004"
                 android:id="@+id/tvdesc"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
         </LinearLayout>
+
+
 
     </LinearLayout>
 </androidx.cardview.widget.CardView>
